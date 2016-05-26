@@ -8,3 +8,5 @@ SRC3 0 0.1333333 1 0 0 1 0 0 0 0.6 1.015e9 #Right Circ polarization
 SRC4 -0.133333 -0.066667 1 -1 0 0 0 0 0 0.6 1.015e9 #vertical polarization
 SRC5 -0.133333 0.0666667 1 0 -1 0 0 0 0 0.6 1.015e9 #-45 polarized
 SRC6 -0.133333 0.1333333 1 0 0 -1 0 0 0 0.6 1.015e9 #Left Circ polarization
+
+SRC7 0.133333 0.0666667 1 0.3 0.7 0 0 0 0 0.6 1.015e9 #mixed linear and 45 polarized
