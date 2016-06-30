@@ -1,0 +1,17 @@
+NParts=1
+NBands=1
+NFrequencies=64
+StartFreq=1170e6
+StepFreq=10e6
+StartTime=2000/08/03/13:22:30
+StepTime=10
+NTimes=676
+RightAscension=0:0:0.0
+Declination=0.0.0.0
+TileSizeFreq=8
+TileSizeRest=10
+WriteAutoCorr=F
+AntennaTableName=EVLA_D
+MSName=mfs_sky.MS
+VDSPath=.
+
